@@ -1,5 +1,7 @@
 Codigo Original Autonomo por Diego Pastor https://es.linkedin.com/in/diegopastorartiles
 
+*NECESARIA LA LIBRERIA OPENFACE: https://cmusatyalab.github.io/openface/
+
 Puesta a Punto: 
 
 Reemplazar codigo cliente y servlet de Openface por los encontrados en este paquete,
